@@ -1,0 +1,23 @@
+﻿{
+  "WebSettings": {
+    "Url": "http://liveapi/v1/Live",
+    "UrlHeaders": [
+      {
+        "Name": "Content-Type",
+        "Value": "application/json"
+      },
+      {
+        "Name": "Authorization",
+        "Value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWVfbmFtZSI6InFhXFxjb2xsZWN0b3IudXNlciIsIm5hbWVpZCI6ImM1OGI4ZjgyLTU3OGUtNDg5Yi05MmMyLWFlNTczMDQ2NDU4OCIsInJvbGUiOiIzIiwiaXNzIjoiQVZHIiwiYXVkIjoiaHR0cHM6Ly90ZXN0LXNlYy5jbG91ZC5hdmcuY29tL3YyIiwiZXhwIjoxNDc1NDk5NzkwLCJuYmYiOjE0NzI5MDc3OTB9.8rUcDzUyfUQtCMDe_LRQgiLYWXQ-U1-WsRWVPOMX_dw"
+      }
+    ],
+    "Verb": "POST",
+
+    "Content": "Ww0KwqDCoMKgew0KwqDCoMKgwqDCoMKgImlkIjogMSwNCsKgwqDCoMKgwqDCoCJpcCI6ICIxOTIuMC4yLjEiLA0KwqDCoMKgwqDCoMKgInBvcnQiOiA4MCwNCsKgwqDCoMKgwqDCoCJ1cmwiOiAid3d3LmV4YW1wbGUuY29tL21hbHdhcmUuZXhlIiwNCsKgwqDCoMKgwqDCoCJmbGFncyI6IFsNCsKgwqDCoMKgwqDCoMKgwqDCoCJ0ZXN0MSIsDQrCoMKgwqDCoMKgwqDCoMKgwqAidGVzdDIiDQrCoMKgwqDCoMKgwqBdDQrCoMKgwqB9LA0KwqDCoMKgew0KwqDCoMKgwqDCoMKgImlkIjogMiwNCsKgwqDCoMKgwqDCoCJpcCI6ICIxOTIuMC4yLjEiLA0KwqDCoMKgwqDCoMKgInBvcnQiOiA4MCwNCsKgwqDCoMKgwqDCoCJ1cmwiOiAid3d3LmV4YW1wbGUuY29tL21hbHdhcmUuZXhlIg0KwqDCoMKgfQ0KXQ==",
+
+    "TimeDuration": 800,
+    "StartCount": 500,
+    "MaxRequestCount": 50000,
+    "Timeout": 600
+  }
+}
